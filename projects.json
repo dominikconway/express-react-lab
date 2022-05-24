@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://dominikconway.github.io/Excercise_of_the_day",
+      "git": "https://github.com/dominikconway/Excercise_of_the_day",
+      "image": "https://camo.githubusercontent.com/6bc8d12951c4b7ae134ca3ceb0821a61e17928498b0ad40e46236f649898a43f/68747470733a2f2f692e696d6775722e636f6d2f794d61534639552e706e67"
+    },
+    {
+      "name": "project2",
+      "live": "https://aqueous-beach-56581.herokuapp.com/payments",
+      "git": "https://github.com/dominikconway/PayMeApp",
+      "image": "https://camo.githubusercontent.com/4b121df15ee6ecac1ae281fa553431fdfc86f705a54cfe0f8e1d22d064d18013/68747470733a2f2f692e696d6775722e636f6d2f55645070414f442e706e67"
+    }
+  ]
